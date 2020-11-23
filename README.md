@@ -1,9 +1,7 @@
 <h1 align="left">Hi 👋, I'm Mohd. Asfaq-E-Azam Rifat</h1>
-<h3 align="center">Enthusiastic Software Engineer from Khulna, Bangladesh, with 3+ years experience participating in the complete product development lifecycle of successfully launched mobile applications. Passionate to take on challenges and to learn new technologies. Believes in quality. In the previous roles, I have developed mobile applications both in Native and Flutter from the scratch and maintained them in production. Have experience with advanced technologies such as Augmented Reality etc.</h3>
+<h3 align="left">Enthusiastic Software Engineer from Khulna, Bangladesh, with 3+ years experience participating in the complete product development lifecycle of successfully launched mobile applications. Passionate to take on challenges and to learn new technologies. Believes in quality. In the previous roles, I have developed mobile applications both in Native and Flutter from the scratch and maintained them in production. Have experience with advanced technologies such as Augmented Reality etc.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifat15913&label=Profile%20views&color=0e75b6&style=flat" alt="rifat15913" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rifat15913" alt="rifat15913" /></a> </p>
 
 - 📝 I regulary write articles on [https://medium.com/@mohd.asfaqeazam](https://medium.com/@mohd.asfaqeazam)
 
