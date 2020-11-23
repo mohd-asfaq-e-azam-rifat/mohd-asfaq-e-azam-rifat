@@ -17,6 +17,10 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+![rifat15913's github stats](https://github-readme-stats.vercel.app/api?username=rifat15913&show_icons=true&hide_border=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifat15913&show_icons=true&hide_border=true)](https://github.com/rifat15913)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohd-asfaq-e-azam-rifat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mohd-asfaq-e-azam-rifat" height="30" width="40" /></a>
@@ -25,8 +29,3 @@
 <a href="https://www.hackerrank.com/mohd_asfaqeazam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="mohd_asfaqeazam" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/storm159" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="storm159" height="30" width="40" /></a>
 </p>
-
-![rifat15913's github stats](https://github-readme-stats.vercel.app/api?username=rifat15913&show_icons=true&hide_border=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifat15913&show_icons=true&hide_border=true)](https://github.com/rifat15913)
-
