@@ -34,3 +34,7 @@
 </br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rifat15913&show_icons=true&locale=en" alt="rifat15913" /></p>
 
+![rifat15913's github stats](https://github-readme-stats.vercel.app/api?username=rifat15913&show_icons=true&hide_border=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifat15913&show_icons=true&hide_border=true)](https://github.com/rifat15913)
+
