@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Android, Flutter**
 
-- 📫 How to reach me **mohd.asfaqeazam@gmail.com**
+- 📫 Reach me via **mohd.asfaqeazam@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1u7PQ_0lVPishMbEeAfdIOueKNrWLdiNG/view?usp=sharing](https://drive.google.com/file/d/1u7PQ_0lVPishMbEeAfdIOueKNrWLdiNG/view?usp=sharing)
 
