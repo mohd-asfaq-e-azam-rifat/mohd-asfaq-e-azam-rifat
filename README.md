@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifat15913&label=Profile%20views&color=0e75b6&style=flat" alt="rifat15913" /> </p>
 
-- 📝 I regulary write articles on [https://medium.com/@mohd.asfaqeazam](https://medium.com/@mohd.asfaqeazam)
+- 📝 I regulary write articles on [https://mohd-asfaq-e-azam.medium.com/](https://mohd-asfaq-e-azam.medium.com/)
 
 - 💬 Ask me about **Android, Flutter**
 
 - 📫 Reach me via **mohd.asfaqeazam@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1u7PQ_0lVPishMbEeAfdIOueKNrWLdiNG/view?usp=sharing](https://drive.google.com/file/d/1u7PQ_0lVPishMbEeAfdIOueKNrWLdiNG/view?usp=sharing)
+- 📄 Know more about me [https://tinyurl.com/y2dv7ln3](https://tinyurl.com/y2dv7ln3)
 
 - ⚡ Fun fact **I'm programmer but I don't drink coffee**
 
@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/mohd-asfaq-e-azam-rifat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mohd-asfaq-e-azam-rifat" height="30" width="40" /></a>
 <a href="https://fb.com/rif.rockzzz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rif.rockzzz" height="30" width="40" /></a>
-<a href="https://medium.com/@mohd.asfaqeazam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mohd.asfaqeazam" height="30" width="40" /></a>
+<a href="https://mohd-asfaq-e-azam.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mohd.asfaqeazam" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mohd_asfaqeazam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="mohd_asfaqeazam" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/storm159" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="storm159" height="30" width="40" /></a>
 </p>
