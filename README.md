@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Mohd. Asfaq-E-Azam Rifat</h1>
-<h3 align="left">Enthusiastic Software Engineer from Khulna, Bangladesh, with 3+ years experience participating in the complete product development lifecycle of successfully launched mobile applications.</h3>
+<h3 align="left">Enthusiastic Software Engineer from Khulna, Bangladesh, with 5 years experience participating in the complete product development lifecycle of successfully launched mobile applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifat15913&label=Profile%20views&color=0e75b6&style=flat" alt="rifat15913" /> </p>
 
