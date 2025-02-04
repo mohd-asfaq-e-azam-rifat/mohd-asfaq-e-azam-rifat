@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Mohd. Asfaq-E-Azam Rifat</h1>
-<h3 align="left">Enthusiastic Software Engineer from Khulna, Bangladesh, with 5 years experience participating in the complete product development lifecycle of successfully launched mobile applications.</h3>
+<h3 align="left">Senior Software Engineer from Bangladesh, participating since 2017 in the complete product development lifecycle of successfully launched mobile applications.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rifat15913&label=Profile%20views&color=0e75b6&style=flat" alt="rifat15913" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohd-asfaq-e-azam-rifat&label=Profile%20views&color=0e75b6&style=flat" alt="mohd-asfaq-e-azam-rifat" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,7 +13,7 @@
 </p>
 </br>
 
-- 📝 I regulary write articles on [https://mohd-asfaq-e-azam.medium.com/](https://mohd-asfaq-e-azam.medium.com/)
+- 📝 I write articles on [https://mohd-asfaq-e-azam.medium.com/](https://mohd-asfaq-e-azam.medium.com/)
 
 - 💬 Ask me about **Android, Flutter**
 
@@ -21,10 +21,10 @@
 
 - 📄 Know more about me [https://tinyurl.com/resume-rifat](https://tinyurl.com/resume-rifat)
 
-- ⚡ Fun fact **I'm programmer but I don't drink coffee**
+- ⚡ Fun fact **I'm a programmer but I don't drink coffee**
 
 </br>
 
-![rifat15913's github stats](https://github-readme-stats.vercel.app/api?username=rifat15913&show_icons=true&hide_border=false)
+![mohd-asfaq-e-azam-rifat's github stats](https://github-readme-stats.vercel.app/api?username=mohd-asfaq-e-azam-rifat&show_icons=true&hide_border=false)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifat15913&show_icons=true&hide_border=false)](https://github.com/rifat15913)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-asfaq-e-azam-rifat&show_icons=true&hide_border=false)](https://github.com/mohd-asfaq-e-azam-rifat)
